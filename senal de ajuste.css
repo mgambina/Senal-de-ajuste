@@ -1,0 +1,72 @@
+.container {
+    margin-top: 50px;
+  }
+
+.fila1{
+    height: 500px;
+  }
+
+.fila2{
+    height: 80px;
+  }
+.fila3{
+  height:80px;
+}
+
+.fila4a{
+  height: 80px;
+}
+
+.filab{
+  height: 80px;
+}
+
+
+.gris {
+  background-color: grey
+}
+
+.amarillo{
+  background-color: yellow
+}
+
+.celeste {
+  background-color: cyan
+}
+
+.verde{
+  background-color: rgb(69, 233, 69)
+}
+
+.rosa{
+  background: rgb(236, 16, 225)
+}
+
+.rojo{
+  background-color: red
+}
+
+.azul{
+  background-color: blue
+} 
+
+.negro{
+  background-color: black
+}
+
+.gradiente{
+  background-image: linear-gradient(to right, white , black);
+}
+
+.fila4a12{ background-color: #faf4f4}
+.fila4a11{ background-color: rgb(235, 232, 232)}
+.fila4a10{ background-color: rgb(223, 221, 221)}
+.fila4a9{ background-color: rgb(202, 202, 202)}
+.fila4a8{ background-color: rgb(194, 191, 191)}
+.fila4a7{ background-color:  rgb(184, 181, 181)}
+.fila4a6{ background-color:  rgb(150, 149, 149)}
+.fila4a5{ background-color:  rgb(119, 118, 118)}
+.fila4a4{ background-color:  rgb(107, 106, 106)}
+.fila4a3{ background-color:  rgb(66, 65, 65)}
+.fila4a2{ background-color:  rgb(12, 12, 12)}
+.fila4a1{ background-color:  rgb(12, 12, 12)}
