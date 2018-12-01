@@ -68,5 +68,10 @@
 .fila4a5{ background-color:  rgb(119, 118, 118)}
 .fila4a4{ background-color:  rgb(107, 106, 106)}
 .fila4a3{ background-color:  rgb(66, 65, 65)}
-.fila4a2{ background-color:  rgb(12, 12, 12)}
+.fila4a2{ background-color:  rgb(31, 30, 30)}
 .fila4a1{ background-color:  rgb(12, 12, 12)}
+
+.fila4a div{
+  height: 80px;
+ }
+ 
